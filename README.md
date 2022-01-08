@@ -83,6 +83,42 @@
 |**Is n divisible by x and y.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Is%20n%20divisible%20by%20x%20and%20y.py) |
 |**Jennys secret message.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Jennys%20secret%20message.py) |
 |**Keep Hydrated.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=28%20minutes%20ago-,Keep%20Hydrated.py,-28%20minutes%20ago) |
+|**Lario and Muigi Pipe Problem.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Lario%20and%20Muigi%20Pipe%20Problem.py) |
+|**MakeUpperCase** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/MakeUpperCase.py) |
+|**Multiply** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Multiply.py) |
+|**My head is at the wrong end!** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/My%20head%20is%20at%20the%20wrong%20end!.py) |
+|**Name your Python** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Name%20your%20Python.py) |
+|**No Loops 2 - You only need one** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/No%20Loops%202%20-%20You%20only%20need%20one.py) |
+|**Online RPG player to qualifying stage** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Online%20RPG%20player%20to%20qualifying%20stage.py) |
 |**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+
 
 
