@@ -45,21 +45,33 @@
 |**Century From Year** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Century%20From%20Year.py) |
 |**Check same case** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Check%20same%20case.py) |
 |**Color Ghost** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Color%20Ghost.py) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|**Convert Number to a String** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Convert%20Number%20to%20a%20String.py) |
+|**Convert a Boolean to String** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Convert%20a%20Boolean%20to%20String.py) |
+|**Convert a String to a Number** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Convert%20a%20String%20to%20a%20Number.py) |
+|**Convert a String to an Array** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Convert%20a%20String%20to%20an%20Array.py) |
+|**Convert boolean values to strings Ýes'or 'No** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.py) |
+|**Correct the mistakes of the character recognition software** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Correct%20the%20mistakes%20of%20the%20character%20recognintion%20software.py) |
+|**Counting sheeps..** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Counting%20sheep...py) |
+|**DNA to RNA Conversion** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/DNA%20to%20RNA%20Conversion.py) |
+|**Difference of Volumes of Cuboids** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Difference%20of%20Volumes%20of%20Cuboids.py) |
+|**Drink about** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Drink%20about.py) |
+|**Ensure question** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Ensure%20question.py) |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
+|**** | 1 | `` | [link]() |
 
