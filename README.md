@@ -20,9 +20,10 @@
 ## 8kyu Katas
 
 <br>
-<ol>
+
 | Kata(s) | Solution(s) | Subject | Link |
 |--|--|--|--|
+<ol>
 <li>|**ASCII Total**                       | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/ACSII%20Total.py)|</li>
 <li>|**Abbreviate a two word name**  | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Abbreviate%20a%20two%20word%20name.py)    |</li>
 <li>|**All Star Code Challenge #18** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/All%20Star%20Code%20Challenge%20%2318.py) |</li>
