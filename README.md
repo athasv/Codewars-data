@@ -20,13 +20,13 @@
 ## 8kyu Katas
 
 <br>
-
+<ol>
 | Kata(s) | Solution(s) | Subject | Link |
 |--|--|--|--|
-|1. **ASCII Total**                       | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/ACSII%20Total.py)|
-|1. **Abbreviate a two word name**  | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Abbreviate%20a%20two%20word%20name.py)    |
-|1. **All Star Code Challenge #18** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/All%20Star%20Code%20Challenge%20%2318.py) |
-|1. **All Star Challenge #18** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/All-star-challenge-18.py) |
+<li>|**ASCII Total**                       | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/ACSII%20Total.py)|</li>
+<li>|**Abbreviate a two word name**  | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Abbreviate%20a%20two%20word%20name.py)    |</li>
+<li>|**All Star Code Challenge #18** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/All%20Star%20Code%20Challenge%20%2318.py) |</li>
+|**All Star Challenge #18** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/All-star-challenge-18.py) |
 |**Alternative case** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Alternative-case.py) |
 |**A needle in the haystack** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/A-needle-in-the-haystack.py) |
 |**Are you playing banjo** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Are%20You%20Playing%20Banjo.py) |
@@ -141,3 +141,4 @@
 |**You can't code under pressure** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/You%20cant%20code%20under%20pressure.py) |
 |**You only need one - Beginner** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/You%20only%20need%20one%20-%20Beginner.py) |
 |**** | 1 | `` | [link]() |
+</ol>
