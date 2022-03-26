@@ -132,7 +132,7 @@
 |**Volume of Cuboid** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Volume%20of%20Cuboid.py) |
 |**Vowel Remover** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Vowel%20remover.py) |
 |**Welcome** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Welcome.py) |
-|***Well of Ideas - Easy Version* | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Well%20of%20Ideas%20-%20Easy%20Version.py) |
+|**Well of Ideas - Easy Version** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Well%20of%20Ideas%20-%20Easy%20Version.py) |
 |**What is between** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/What%20is%20between.py) |
 |**What's the real floor** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Whats%20the%20real%20floor.py) |
 |**Will there be enough space** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Will%20there%20be%20enough%20space.py) |
