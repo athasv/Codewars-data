@@ -61,6 +61,7 @@
 |**Expressions matter** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Expressions%20matter.py) |
 |**Fake Binary** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Fake%20Binary.py) |
 |**Find multiples of a Number** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20multiples%20of%20a%20Number.py) |
+|**Find the first non-consecutive number** | 1 | `` | [link]() |
 |**Find the remainder** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20the%20remainder.py) |
 |**Fix the loop** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Fix%20the%20loop.py) |
 |**Find the smallest integer in the array** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20the%20smallest%20integer%20in%20the%20array.py) |
@@ -81,6 +82,7 @@
 |**Holiday VIII - Duty Free** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Holiday%20VIII%20-%20Duty%20Free.py) |
 |**I love you a little a lot passionately .. not at all** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/I%20love%20you%20a%20little%20a%20lot%20passionately%20...%20not%20at%20all.py) |
 |**If you can't sleep, just count sheep.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=If%20you%20can%27t%20sleep%2C%20just%20count%20sheep.py) |
+|**Invalid Login - Bug Fixing #11** | 1 | `` | [link]() |
 |**Is he gonna survive.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Is%20he%20gonna%20survive.py) |
 |**Is it a number.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=27%20minutes%20ago-,Is%20it%20a%20number.py,-27%20minutes%20ago) |
 |**Is n divisible by x and y.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Is%20n%20divisible%20by%20x%20and%20y.py) |
@@ -101,6 +103,7 @@
 |**Pirates Are the Cannons ready** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Pirates%20Are%20the%20Cannons%20ready.py) |
 |**Points of reflection** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Points%20of%20reflection.py) |
 |**Quarter of the year** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Quarter%20of%20the%20year.py) |
+|**Regex count lowercase letters** | 1 | `` | [link]() |
 |**Remove exclamation marks** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Remove%20exclamation%20marks.py) |
 |**Remove first and last character** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Remove%20first%20and%20last%20character.py) |
 |**Return negative** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Return%20Negative.py) |
