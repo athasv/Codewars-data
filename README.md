@@ -63,15 +63,15 @@
 |**Find multiples of a Number** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20multiples%20of%20a%20Number.py) |
 |**Find the first non-consecutive number** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20the%20first%20non-consecutive%20number.py) |
 |**Find the remainder** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20the%20remainder.py) |
-|**Find the slope** | 1 | `` | [link]() |
+|**Find the slope** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20the%20Slope.py) |
 |**Fix the loop** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Fix%20the%20loop.py) |
 |**Find the smallest integer in the array** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20the%20smallest%20integer%20in%20the%20array.py) |
-|**Fix your code before your garden dies** | 1 | `` | [link]() |
+|**Fix your code before your garden dies** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Fix%20your%20code%20before%20your%20garden%20dies.py) |
 |**For Twins 2 Math operations** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/For%20Twins%202%20Math%20operations.py) |
 |**Function 1 - Hello World** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Function%201%20-%20hello%20world.py) |
 |**Function 2 - Squaring an argument** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Function%202%20-%20squaring%20an%20argument.py) |
 |**Function 3 - Multiplying two numbers** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Function%203%20-%20multiplying%20two%20numbers.py) |
-|**Generate User Links** | 1 | `` | [link]() |
+|**Generate User Links** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Generate%20User%20Links.py) |
 |**Get Nth Even number** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Get%20Nth%20Even%20number.py) |
 |**Grandma learning to text** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Get%20Nth%20Even%20number.py) |
 |**Grasshopper - Check for factor** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshoper-Check%20for%20factor.py) |
@@ -82,7 +82,7 @@
 |**Grasshopper - Terminal game move function** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshopper%20-%20Terminal%20game%20move%20function.py) |
 |**Grasshopper - Variable Assignment Debug** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshopper%20-%20Variable%20Assignment%20Debug.py) |
 |**Gravity Flip** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Gravity%20Flip.py) |
-|**Greek Sort** | 1 | `` | [link]() |
+|**Greek Sort** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Greek%20sort.py) |
 |**Holiday VIII - Duty Free** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Holiday%20VIII%20-%20Duty%20Free.py) |
 |**I love you a little a lot passionately .. not at all** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/I%20love%20you%20a%20little%20a%20lot%20passionately%20...%20not%20at%20all.py) |
 |**If you can't sleep, just count sheep.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=If%20you%20can%27t%20sleep%2C%20just%20count%20sheep.py) |
@@ -91,12 +91,12 @@
 |**Is it a number.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=27%20minutes%20ago-,Is%20it%20a%20number.py,-27%20minutes%20ago) |
 |**Is n divisible by x and y.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Is%20n%20divisible%20by%20x%20and%20y.py) |
 |**Jennys secret message.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Jennys%20secret%20message.py) |
-|**Job matching #1** | 1 | `` | [link]() |
+|**Job matching #1** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Job%20Matching%20%231.py) |
 |**Keep Hydrated.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=28%20minutes%20ago-,Keep%20Hydrated.py,-28%20minutes%20ago) |
 |**Keep up the hoop** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Keep%20up%20the%20hoop.py) |
 |**Lario and Muigi Pipe Problem.py** | 1 | `` | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Lario%20and%20Muigi%20Pipe%20Problem.py) |
-|**Leonardo DiCaprio and Oscars** | 1 | `` | [link]() |
-|**Localize The Barycenter of a Triangle** | 1 | `` | [link]() |
+|**Leonardo DiCaprio and Oscars** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Leonardo%20Dicaprio%20and%20Oscars.py) |
+|**Localize The Barycenter of a Triangle** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Localize%20The%20Barycenter%20of%20a%20Triangle.py) |
 |**MakeUpperCase** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/MakeUpperCase.py) |
 |**Multiply** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Multiply.py) |
 |**My head is at the wrong end!** | 1 | `` | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/My%20head%20is%20at%20the%20wrong%20end!.py) |
