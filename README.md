@@ -4,7 +4,7 @@
 ## 6kyu Katas
 
 | Kata(s) | Solution(s) | Link |
-|--|--|--|--|
+|--|--|--|
 | **Split Strings**             | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/6Kyu/Split%20Strings.py)                    |
 | **Sum f Digits Digital Root** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/6Kyu/Sum%20of%20Digits%20Digital%20Root.py) |
 
@@ -12,7 +12,7 @@
 ## 7kyu Katas
 
 | Kata(s) | Solution(s) | Link |
-|--|--|--|--|
+|--|--|--|
 | **Isograms** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/7Kyu/Isograms.py)|
 | **Thinkful - String Drills Quotable** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/7Kyu/Thinkful%20-%20String%20Drills%20Quotable.py) |
 
@@ -22,7 +22,7 @@
 <br>
 
 | Kata(s) | Solution(s) | Link |
-|--|--|--|--|
+|--|--|--|
 |**ASCII Total** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/ACSII%20Total.py)|
 |**Abbreviate a two word name**  | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Abbreviate%20a%20two%20word%20name.py)    |
 |**All Star Code Challenge #18** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/All%20Star%20Code%20Challenge%20%2318.py) |
