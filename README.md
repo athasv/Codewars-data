@@ -90,6 +90,7 @@
 |**Is he gonna survive** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Is%20he%20gonna%20survive.py) |
 |**Is it a number** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=27%20minutes%20ago-,Is%20it%20a%20number.py,-27%20minutes%20ago) |
 |**Is n divisible by x and y** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Is%20n%20divisible%20by%20x%20and%20y.py) |
+|**Is your period late** | 1 | [link]() |
 |**Jennys secret message** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Jennys%20secret%20message.py) |
 |**Job matching #1** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Job%20Matching%20%231.py) |
 |**Keep Hydrated** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=28%20minutes%20ago-,Keep%20Hydrated.py,-28%20minutes%20ago) |
@@ -112,6 +113,7 @@
 |**Quarter of the year** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Quarter%20of%20the%20year.py) |
 |**Regex count lowercase letters** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Regex%20count%20lowercase%20letters.py) |
 |**Remove exclamation marks** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Remove%20exclamation%20marks.py) |
+|**Remove the time** | 1 | [link]() |
 |**Remove first and last character** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Remove%20first%20and%20last%20character.py) |
 |**Return negative** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Return%20Negative.py) |
 |**Return to sanity** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Return%20to%20Sanity.py) |
@@ -150,4 +152,4 @@
 |**Wilson Primes** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Wilson%20primes.py) |
 |**You can't code under pressure** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/You%20cant%20code%20under%20pressure.py) |
 |**You only need one - Beginner** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/You%20only%20need%20one%20-%20Beginner.py) |
-|**** | 1 | `` | [link]() |
+|**** | 1 | [link]() |
