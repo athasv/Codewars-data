@@ -53,9 +53,9 @@
 |**Convert boolean values to strings Ýes'or 'No** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.py) |
 |**Correct the mistakes of the character recognition software** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Correct%20the%20mistakes%20of%20the%20character%20recognintion%20software.py) |
 |**Counting sheeps..** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Counting%20sheep...py) |
-|**Days in the year** | 1 | [link]() |
+|**Days in the year** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Days%20in%20the%20year.py) |
 |**DNA to RNA Conversion** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/DNA%20to%20RNA%20Conversion.py) |
-|**Do I get bonus?** | 1 | [link]() |
+|**Do I get bonus?** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Do%20I%20get%20bonus.py) |
 |**Difference of Volumes of Cuboids** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Difference%20of%20Volumes%20of%20Cuboids.py) |
 |**Drink about** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Drink%20about.py) |
 |**Ensure question** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Ensure%20question.py) |
@@ -70,7 +70,7 @@
 |**Find the smallest integer in the array** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Find%20the%20smallest%20integer%20in%20the%20array.py) |
 |**Fix your code before your garden dies** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Fix%20your%20code%20before%20your%20garden%20dies.py) |
 |**For Twins 2 Math operations** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/For%20Twins%202%20Math%20operations.py) |
-|**Fuel Calculator** | 1 | [link]() |
+|**Fuel Calculator** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Fuel%20Calculator.py) |
 |**Function 1 - Hello World** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Function%201%20-%20hello%20world.py) |
 |**Function 2 - Squaring an argument** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Function%202%20-%20squaring%20an%20argument.py) |
 |**Function 3 - Multiplying two numbers** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Function%203%20-%20multiplying%20two%20numbers.py) |
@@ -113,7 +113,7 @@
 |**Parse nice int from char problem** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Parse%20nice%20int%20from%20char%20problem.py) |
 |**Pirates Are the Cannons ready** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Pirates%20Are%20the%20Cannons%20ready.py) |
 |**Points of reflection** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Points%20of%20reflection.py) |
-|**Printing Array elements with Comma delimiters** | 1 | [link]() |
+|**Printing Array elements with Comma delimiters** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Printing%20Array%20elements%20with%20Comma%20delimiters.py) |
 |**Quarter of the year** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Quarter%20of%20the%20year.py) |
 |**Regex count lowercase letters** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Regex%20count%20lowercase%20letters.py) |
 |**Remove exclamation marks** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Remove%20exclamation%20marks.py) |
