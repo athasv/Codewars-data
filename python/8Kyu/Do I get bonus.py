@@ -1,0 +1,1 @@
+def bonus_time(salary, bonus): return "${}".format(str(int(salary * 10))) if bonus == True else "${}".format(str(int(salary))) 
