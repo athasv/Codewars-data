@@ -1,0 +1,1 @@
+def is_vow(inp): return [chr(char) if chr(char) in "aeiou" else char for char in inp]

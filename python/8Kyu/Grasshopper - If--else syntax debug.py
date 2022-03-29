@@ -1,0 +1,1 @@
+def check_alive(health): return (False, True)[health > 0]

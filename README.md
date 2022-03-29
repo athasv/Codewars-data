@@ -43,8 +43,10 @@
 |**Beginner Series 4 Cockroach** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Beginner%20Series%204%20Cockroach.py) |
 |**Calculate BMI** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Calculate%20BMI.py) |
 |**Can we devide it** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Can%20we%20divide%20it.py) |
+|**Capitalization and Mutability** | 1 | [link]() |
 |**Century From Year** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Century%20From%20Year.py) |
 |**Check same case** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Check%20same%20case.py) |
+|**Chuck Norris VII - True or False (Beginner)** | 1 | [link]() |
 |**Color Ghost** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Color%20Ghost.py) |
 |**Convert a Number to a String** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Convert%20Number%20to%20a%20String.py) |
 |**Convert a Boolean to a String** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Convert%20a%20Boolean%20to%20String.py) |
@@ -54,10 +56,13 @@
 |**Correct the mistakes of the character recognition software** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Correct%20the%20mistakes%20of%20the%20character%20recognintion%20software.py) |
 |**Counting sheeps..** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Counting%20sheep...py) |
 |**Days in the year** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Days%20in%20the%20year.py) |
+|**Define a card suit** | 1 | [link]() |
 |**DNA to RNA Conversion** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/DNA%20to%20RNA%20Conversion.py) |
 |**Do I get bonus?** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Do%20I%20get%20bonus.py) |
 |**Difference of Volumes of Cuboids** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Difference%20of%20Volumes%20of%20Cuboids.py) |
+|**Dollars and Cents** | 1 | [link]() |
 |**Drink about** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Drink%20about.py) |
+|**Easy Logs** | 1 | [link]() |
 |**Ensure question** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Ensure%20question.py) |
 |**Even or Odd** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Even%20or%20Odd.py) |
 |**Expressions matter** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Expressions%20matter.py) |
@@ -80,7 +85,9 @@
 |**Grasshopper - Check for factor** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshoper-Check%20for%20factor.py) |
 |**Grasshopper - Grade book** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshoper-Grade%20book.py) |
 |**Grasshopper - Basic Function Fixer** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshopper%20-%20Basic%20Function%20Fixer.py) |
+|**Grasshopper - If--else syntax debug** | 1 | [link]() |
 |**Grasshopper - Messi goals function** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshopper%20-%20Messi%20goals%20function.py) |
+|**Grasshopper - Messi goals** | 1 | [link]() |
 |**Grasshopper - Summation** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshopper%20-%20Summation.py) |
 |**Grasshopper - Terminal game move function** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshopper%20-%20Terminal%20game%20move%20function.py) |
 |**Grasshopper - Variable Assignment Debug** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Grasshopper%20-%20Variable%20Assignment%20Debug.py) |
@@ -93,15 +100,18 @@
 |**Is he gonna survive** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Is%20he%20gonna%20survive.py) |
 |**Is it a number** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=27%20minutes%20ago-,Is%20it%20a%20number.py,-27%20minutes%20ago) |
 |**Is n divisible by x and y** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Is%20n%20divisible%20by%20x%20and%20y.py) |
+|**Is there a vowel in there** | 1 | [link]() |
 |**Is your period late** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Is%20your%20period%20late.py) |
 |**Jennys secret message** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Jennys%20secret%20message.py) |
 |**Job matching #1** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Job%20Matching%20%231.py) |
 |**Keep Hydrated** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=28%20minutes%20ago-,Keep%20Hydrated.py,-28%20minutes%20ago) |
 |**Keep up the hoop** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Keep%20up%20the%20hoop.py) |
+|**L1 Set Alarm** | 1 | [link]() |
 |**Lario and Muigi Pipe Problem** | 1 | [link](https://github.com/athasv/Codewars-data/tree/main/python/8Kyu#:~:text=Lario%20and%20Muigi%20Pipe%20Problem.py) |
 |**Leonardo DiCaprio and Oscars** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Leonardo%20Dicaprio%20and%20Oscars.py) |
 |**Localize The Barycenter of a Triangle** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Localize%20The%20Barycenter%20of%20a%20Triangle.py) |
 |**MakeUpperCase** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/MakeUpperCase.py) |
+|**Multiple the number** | 1 | [link]() |
 |**Multiply** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Multiply.py) |
 |**My head is at the wrong end!** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/My%20head%20is%20at%20the%20wrong%20end!.py) |
 |**Name your Python** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Name%20your%20Python.py) |
@@ -110,6 +120,7 @@
 |**Online RPG player to qualifying stage** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Online%20RPG%20player%20to%20qualifying%20stage.py) |
 |**Opposite number** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Opposite%20number.py) |
 |**Opposites attract** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Opposites%20atract.py) |
+|**Parse Float** | 1 | [link]() |
 |**Parse nice int from char problem** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Parse%20nice%20int%20from%20char%20problem.py) |
 |**Pirates Are the Cannons ready** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Pirates%20Are%20the%20Cannons%20ready.py) |
 |**Points of reflection** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Points%20of%20reflection.py) |
@@ -121,11 +132,14 @@
 |**Remove first and last character** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Remove%20first%20and%20last%20character.py) |
 |**Return negative** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Return%20Negative.py) |
 |**Return to sanity** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Return%20to%20Sanity.py) |
+|**Returning strings** | 1 | [link]() |
 |**Reverse List Order** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Reverse%20list%20order.py) |
 |**Reversed Strings** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Reversed%20Strings.py) |
+|**Reverse Words** | 1 | [link]() |
 |**Rock Paper Scissors** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Rock%20Paper%20Scissors.py) |
 |**Sentence Smash** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Sentence%20Smash.py) |
 |**Simple Multiplication** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Simple%20Multiplication.py) |
+|**Simple validation of a username with a regex** | 1 | [link]() |
 |**Square n-Sum** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Square-n-sum.py) |
 |**Squash the bugs** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/Squash%20the%20bugs.py) |
 |**String repeat** | 1 | [link](https://github.com/athasv/Codewars-data/blob/main/python/8Kyu/String%20repeat.py) |
