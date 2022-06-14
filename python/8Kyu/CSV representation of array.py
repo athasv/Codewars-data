@@ -1,0 +1,1 @@
+def to_csv_text(array): return '\n'.join(','.join(str(j) for j in i) for i in array)
