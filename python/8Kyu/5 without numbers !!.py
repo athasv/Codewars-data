@@ -1,0 +1,1 @@
+unusual_five=lambda: sum([True, True, True, True, True])
